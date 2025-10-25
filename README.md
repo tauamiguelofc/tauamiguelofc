@@ -44,8 +44,8 @@ Busco desenvolver sistemas inteligentes, drones autônomos e projetos que desafi
 ## Contato
 
 <p align="center">
-  <a href="https://discord.gg/"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
-  <a href="mailto:"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+  <a href="https://discord.gg/xFhMkNpJkU"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+  <a href="mailto:tauamiguel78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://www.linkedin.com/in/tau%C3%A3-miguel-84567b255/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://www.instagram.com/taua.ofc/"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
 </p>
