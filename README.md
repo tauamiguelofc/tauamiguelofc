@@ -26,20 +26,7 @@ Busco desenvolver sistemas inteligentes, drones autônomos e projetos que desafi
 | **KVN Engine** | Núcleo modular para automação e IA | 🚀 Em construção |
 | **XexalorX Systems** | Framework de segurança autônoma | 🧠 Pesquisa |
 
----
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=taua-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=taua-dev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taua-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## Contato
 
