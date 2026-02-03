@@ -1,38 +1,53 @@
-<h1 align="center">Tauã | Visionary Engineer & AI Architect</h1>
+# Tauã | Chemical Engineering Student & Frugal Innovator
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou Tauã, estudante de **Engenharia Mecatrônica e Ciência da Computação** e fundador da **KRYVION**, estúdio focado em inovação aeroespacial, inteligência artificial e segurança autônoma.  
-Busco desenvolver sistemas inteligentes, drones autônomos e projetos que desafiam os limites da engenharia.
+I'm **Tauã**, a **first-year Chemical Engineering student at UFAL**. Coming from a public school background, I've developed a passion for **frugal innovation** — creating functional, precise systems using accessible components, open-source tools, and creativity to solve real-world problems.
+
+I believe true engineering is not measured by budget, but by the ability to **design, build, and validate** solutions with the resources available.
 
 ---
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,react,unity,linux,git,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## Projetos em andamento
+## Current Projects
 
-| Projeto | Descrição | Status |
+| Project | Description | Stage |
 |---------|-----------|--------|
-| **KRYVION Vanguard V3** | Drone de alta performance | 🔧 Protótipo |
-| **SURX Bot** | IA integrada ao Discord com dashboard web | 🧩 Desenvolvimento |
-| **KVN Engine** | Núcleo modular para automação e IA | 🚀 Em construção |
-| **XexalorX Systems** | Framework de segurança autônoma | 🧠 Pesquisa |
+| **Project FRUGAL** | Low-cost, automated platform for chemistry experiments and reaction optimization. | 🔬 **Prototyping & Validation** |
+| **Project AEROFLOW** | Open-source educational wind tunnel for small-scale aerodynamic testing. | 📐 **Component Research & Design** |
+| **Project ATLAS** | Modular experimental node for studying distributed systems with limited hardware. | 🧠 **System Design & Architecture** |
+| **Project URSA-LINK** | Drone-based mesh network system for emergency communication scenarios. | 📡 **Protocol Design & Simulation** |
+| **Project VORTEX** | Performance testing and characterization of custom propulsion systems. | ⚙️ **Testing & Data Analysis** |
 
+---
 
+## Development Philosophy
 
-## Contato
+My projects follow a clear, iterative path:
+1.  **Identify a Clear Need** – Solve real, measurable problems.
+2.  **Optimize with Creativity** – Maximize functionality with minimal, accessible resources.
+3.  **Build → Test → Measure** – Rapid prototyping based on data and validation.
+4.  **Document & Share** – Create clear, open guides for replication and learning.
+5.  **Generate Valid Knowledge** – Ensure every project produces reliable data and useful insights.
+
+---
+
+## Contact
 
 <p align="center">
-  <a href="https://discord.gg/xFhMkNpJkU"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
-  <a href="mailto:tauamiguel78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://www.linkedin.com/in/tau%C3%A3-miguel-84567b255/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://www.instagram.com/taua.ofc/"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+  <a href="mailto:tauamiguel78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/tau%C3%A3-miguel-84567b255/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
+  <a href="https://github.com/taua-dev"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
 </p>
+
+---
+*Building practical solutions, hands-on and grounded.*
