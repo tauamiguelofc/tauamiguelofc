@@ -17,6 +17,8 @@ Coisas que uso
 
 
 
+---
+
 Projetos que tô mexendo
 
 Projeto Descrição Estágio
@@ -26,7 +28,7 @@ ATLAS Um nó experimental pra brincar com sistemas distribuídos 🧠 Projetando
 URSA-LINK Rede de comunicação com drones pra emergências 📡 Simulando
 VORTEX Testes de desempenho de sistemas de propulsão ⚙️ Analisando dados
 
-
+---
 Como faço as coisas
 
 1. Vejo um problema que dá pra resolver
