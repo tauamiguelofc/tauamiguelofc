@@ -48,7 +48,7 @@ Gosto de resolver problemas reais com ferramentas abertas, componentes simples e
 
 ### 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/tauã-miguel-84567b255?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Email](mailto:tauamiguel78@gmail.com)
 
 ---
