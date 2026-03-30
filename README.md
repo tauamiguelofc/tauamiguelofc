@@ -1,50 +1,56 @@
-Tauã | Estudante de Engenharia Química
+### 👋 Olá, eu sou Tauã
 
-
-
-Sobre mim
-
-Sou Tauã, estudante do primeiro período de Engenharia Química na UFAL. Vim da escola pública e gosto de criar soluções com o que tá disponível — componentes simples, ferramentas abertas e um pouco de criatividade.
-
-Acredito que engenharia de verdade não é sobre quanto se gasta, mas sobre fazer funcionar com o que se tem.
-
-
-Coisas que uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode&theme=dark" />
-</p>
-
-
+Engenheiro químico em formação (UFAL) | Criador de soluções com recursos limitados
 
 ---
 
-Projetos que tô mexendo
+### 🧪 Sobre mim
 
-Projeto Descrição Estágio
-FRUGAL Plataforma simples e barata pra experimentos de química 🔬 Testando
-AEROFLOW Túnel de vento caseiro pra teste de aerodinâmica 📐 Pesquisando peças
-ATLAS Um nó experimental pra brincar com sistemas distribuídos 🧠 Projetando
-URSA-LINK Rede de comunicação com drones pra emergências 📡 Simulando
-VORTEX Testes de desempenho de sistemas de propulsão ⚙️ Analisando dados
+Sou estudante do primeiro período de Engenharia Química na Universidade Federal de Alagoas. Minha jornada começou na escola pública e me ensinou algo simples: **não é sobre quanto se tem, é sobre o que se faz com o que se tem**.
+
+Gosto de resolver problemas reais com ferramentas abertas, componentes simples e um pouco de criatividade. Aqui no GitHub compartilho experimentos, protótipos e ideias em andamento — alguns funcionam, outros ainda estão no papel. Faz parte.
 
 ---
-Como faço as coisas
 
-1. Vejo um problema que dá pra resolver
-2. Penso no jeito mais simples de fazer
-3. Testo, meço, vejo se funciona
-4. Anoto tudo pra não esquecer
-5. Compartilho se fizer sentido
+### 🔧 Tecnologias e ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-Onde me achar
+---
 
-<p align="center">
-  <a href="mailto:tauamiguel78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/tau%C3%A3-miguel-84567b255/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
-  <a href="https://github.com/taua-dev"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
-</p>
+### 🚀 Projetos em andamento
 
+| Projeto | Descrição | Status |
+|--------|-----------|--------|
+| **FRUGAL** | Plataforma simples e barata para experimentos de química | 🔬 Testando |
+| **AEROFLOW** | Túnel de vento caseiro para testes aerodinâmicos | 📐 Pesquisando peças |
+| **ATLAS** | Nó experimental para estudos de sistemas distribuídos | 🧠 Projetando |
+| **URSA-LINK** | Rede de comunicação para drones em situações de emergência | 📡 Simulando |
+| **VORTEX** | Testes de desempenho de sistemas de propulsão | ⚙️ Analisando dados |
 
-Aprendendo fazendo.
+---
+
+### 🧠 Como trabalho
+
+1. Identifico um problema que vale a pena resolver  
+2. Busco a solução mais simples e funcional possível  
+3. Testo, meço e observo os resultados  
+4. Documento o processo (pra não perder o fio da meada)  
+5. Compartilho o que fez sentido — mesmo que não esteja pronto
+
+---
+
+### 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Email](mailto:tauamiguel78@gmail.com)
+
+---
+
+> *Aprendendo fazendo. E compartilhando no caminho.*
