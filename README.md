@@ -1,32 +1,46 @@
-### 👋 Olá, eu sou Tauã
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tauamiguelofc/tauamiguelofc/main/header.svg" alt="—" width="100%">
+</div>
 
-Engenharia Química (UFAL) — soluções simples com recursos limitados.
+<br>
 
----
+### ◈
 
-### 🔧 Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+Engenharia Química (UFAL) · Construindo em silêncio.
 
 ---
 
-### 🚀 Projeto
+### 🜁 Stack
 
-**[Livre Opina]([https://github.com/tauamiguelofc/NebulaBoard](https://github.com/tauamiguelofc/LivreOpina))** — Fórum estilo Discord com login, postagens e tema escuro.  
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-1e1e1e?style=flat&logo=lua&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1e1e1e?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1e1e?style=flat&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-1e1e1e?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-### 📫 Contato
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauã-miguel-84567b255)  
-📧 tauamiguel78@gmail.com
+<div align="center">
+  <h3>⛛ EM DESENVOLVIMENTO</h3>
+</div>
+
+<table align="center"><tr><td>
+  
+  **PROJECT [REDACTED]**  
+  <sub>████████████████████████</sub>
+  
+</td></tr></table>
+
+<br>
+
+---
+
+### 📡
+
+[![LinkedIn](https://img.shields.io/badge/--0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauã-miguel-84567b255)
+[![Email](https://img.shields.io/badge/--EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tauamiguel78@gmail.com)
+
+<br>
+<br>
