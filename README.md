@@ -1,5 +1,5 @@
 <p align="center">
-  # Olá, eu sou o Tauã Miguel👋
+  Olá, eu sou o Tauã Miguel👋
   
   **Estudante de Engenharia Química (UFAL) | Desenvolvedor de Sistemas | OSINT Enthusiast**
   
