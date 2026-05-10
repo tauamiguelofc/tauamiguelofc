@@ -1,56 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Tauã%20Miguel&fontSize=70&animation=fadeIn" alt="Banner" />
-</p>
+# Olá, eu sou o Tauã Miguel 👋
 
-<p align="center">
-  **Estudante de Engenharia Química (UFAL) | Security Researcher | Systems Developer**[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span)
-  <br>
-  *Engenharia de Processos & Arquitetura de Software*[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)
-  <br><br>
-  <a href="https://tauamiguelofc.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+**Estudante de Engenharia Química (UFAL) · Security Researcher · Systems Developer**
 
 ---
 
-### ⬛ Sobre mim
+## Sobre mim
 
-Sou estudante de **Engenharia Química na UFAL**[span_4](start_span)[span_4](end_span) e pesquisador de segurança com foco em tecnologia de baixo nível[span_5](start_span)[span_5](end_span). Busco unir o rigor analítico da engenharia com o desenvolvimento de sistemas robustos e seguros[span_6](start_span)[span_6](end_span). Atualmente, concentro meus esforços em arquitetura de compiladores e inteligência de fontes abertas (OSINT)[span_7](start_span)[span_7](end_span).
+Sou estudante de Engenharia Química na UFAL e pesquisador de segurança com foco em tecnologia de baixo nível. Busco unir o rigor analítico da engenharia com o desenvolvimento de sistemas robustos e seguros. Atualmente, concentro meus esforços em arquitetura de compiladores e inteligência de fontes abertas (OSINT).
 
-Fundador da **AEGIS-Dynamics (AAD-Systems)**[span_8](start_span)[span_8](end_span), onde gerencio projetos que visam transparência e alta performance computacional[span_9](start_span)[span_9](end_span).
+Fundador da **AEGIS-Dynamics (AAD-Systems)**, onde gerencio projetos que visam transparência e alta performance computacional.
 
-*   **Projeto Principal:** [Linguagem Pyrus (v0.2.1 Alpha)](https://github.com/tauamiguelofc/Pyrus) — Voltada para sistemas de segurança e automação industrial[span_10](start_span)[span_10](end_span).
-*   **ThermoLab (v0.2.1-alpha):** Engine de processamento termodinâmico para cálculos de ciclos térmicos[span_11](start_span)[span_11](end_span).
-*   **Interesses:** Design de Compiladores, Segurança em Redes, OSINT e Simulação de Processos[span_12](start_span)[span_12](end_span).
-
----
-
-### ⬛ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,cpp,docker,linux,git,bash,visualstudio,latex" alt="Tech Stack" />
-</p>
+- 🦀 **Linguagem Pyrus (v0.2.1 Alpha)** — Linguagem voltada para sistemas de segurança e automação industrial
+- 🌡️ **ThermoLab (v0.2.1-alpha)** — Engine de processamento termodinâmico para cálculos de ciclos térmicos e estados de substâncias
+- 🔍 **Interesses:** Design de Compiladores · Segurança em Redes · OSINT · Simulação de Processos · Sistemas Operacionais
 
 ---
 
-### ⬛ GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tauamiguelofc&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauamiguelofc&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff" height="150" alt="Languages" />
-</p>
+**Engenharia & Sistemas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**OSINT & Segurança**
+
+![OSINT](https://img.shields.io/badge/OSINT-222222?style=flat-square&logo=searxng&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Research-CC0000?style=flat-square&logo=hackaday&logoColor=white)
+
+**Infraestrutura**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### ⬛ Conexões
+## GitHub Stats
 
-<p align="center">
-  <a href="mailto:arvexatechnologys@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" /></a>
-  <a href="https://instagram.com/taua.ofc"><img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram" /></a>
-  <a href="https://github.com/tauamiguelofc"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" /></a>
-</p>
+![Tauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauamiguel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauamiguel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="300" opacity="0.5" alt="Tech GIF" />
-</p>
+---
+
+## Conexões
+
+[![AEGIS Dynamics](https://img.shields.io/badge/AEGIS_Dynamics-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/AAD-Systems)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:taua@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tauamiguel)
