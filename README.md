@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/tauamiguelofc.png" width="150px" style="border-radius: 50%; border: 3px solid #ff0000;" alt="Tauã Miguel">
-  <br>
   <h1>Olá, eu sou o Tauã Miguel 👋</h1>
   
   **Estudante de Engenharia Química (UFAL) | Security Researcher | Systems Developer**
@@ -16,13 +14,13 @@
 
 ## ⬛ Sobre mim
 
-Sou estudante de **Engenharia Química na UFAL**[span_2](start_span)[span_2](end_span) e pesquisador de segurança com foco em tecnologia de baixo nível. Busco unir o rigor analítico da engenharia com o desenvolvimento de sistemas robustos e seguros. Atualmente, concentro meus esforços em arquitetura de compiladores e inteligência de fontes abertas (OSINT)[span_3](start_span)[span_3](end_span).
+Sou estudante de **Engenharia Química na UFAL**[span_0](start_span)[span_0](end_span) e pesquisador de segurança com foco em tecnologia de baixo nível. Busco unir o rigor analítico da engenharia com o desenvolvimento de sistemas robustos e seguros. Atualmente, concentro meus esforços em arquitetura de compiladores e inteligência de fontes abertas (OSINT)[span_1](start_span)[span_1](end_span).
 
-Fundador da **AEGIS-Dynamics (AAD-Systems)**[span_4](start_span)[span_4](end_span), onde gerencio projetos que visam transparência e alta performance computacional.
+Fundador da **AEGIS-Dynamics (AAD-Systems)**[span_2](start_span)[span_2](end_span), onde gerencio projetos que visam transparência e alta performance computacional.
 
-*   **Projeto Principal: [Linguagem Pyrus (v0.2.1 Alpha)](https://github.com/tauamiguelofc/Pyrus)**[span_5](start_span)[span_5](end_span). Uma linguagem voltada para sistemas de segurança e automação industrial[span_6](start_span)[span_6](end_span).
-*   **ThermoLab (v0.2.1-alpha):** Engine de processamento termodinâmico para cálculos de ciclos térmicos e estados de substâncias[span_7](start_span)[span_7](end_span).
-*   **Interesses Técnicos:** Design de Compiladores, Segurança em Redes, OSINT, Simulação de Processos e Sistemas Operacionais[span_8](start_span)[span_8](end_span).
+* **Projeto Principal: [Linguagem Pyrus (v0.2.1 Alpha)](https://github.com/tauamiguelofc/Pyrus)**[span_3](start_span)[span_3](end_span). Uma linguagem voltada para sistemas de segurança e automação industrial[span_4](start_span)[span_4](end_span).
+* **ThermoLab (v0.2.1-alpha):** Engine de processamento termodinâmico para cálculos de ciclos térmicos e estados de substâncias[span_5](start_span)[span_5](end_span).
+* **Interesses Técnicos:** Design de Compiladores, Segurança em Redes, OSINT, Simulação de Processos e Sistemas Operacionais[span_6](start_span)[span_6](end_span).
 
 <hr>
 
