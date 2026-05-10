@@ -54,7 +54,7 @@
             padding: 20px;
         }
 
-        /* BotÃ£o de Tema */
+        /* Botão de Tema */
         .theme-toggle {
             position: fixed;
             top: 20px;
@@ -124,7 +124,7 @@
             margin-bottom: 30px;
         }
 
-        /* Grid de BotÃµes */
+        /* Grid de Botões */
         .links-wrapper {
             display: flex;
             flex-direction: column;
@@ -164,7 +164,7 @@
             font-weight: 400;
         }
 
-        /* RodapÃ© de Redes */
+        /* Rodapé de Redes */
         .social-footer {
             display: flex;
             justify-content: center;
@@ -190,7 +190,7 @@
             letter-spacing: 2px;
         }
 
-        /* AnimaÃ§Ã£o de Entrada */
+        /* Animação de Entrada */
         @keyframes fadeInUp {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
@@ -200,32 +200,32 @@
 </head>
 <body data-theme="dark">
 
-    <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">ðŸŒ™</button>
+    <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">🌙</button>
 
     <div class="main-card reveal" id="tiltCard" style="animation-delay: 0.1s;">
-        <!-- CabeÃ§alho -->
+        <!-- Cabeçalho -->
         <div class="profile-container">
-            <img src="https://github.com/taua-ofc.png" alt="TauÃ£ Miguel" class="profile-img">
+            <img src="https://github.com/taua-ofc.png" alt="Tauã Miguel" class="profile-img">
         </div>
         
-        <h1>TauÃ£ Miguel</h1>
+        <h1>Tauã Miguel</h1>
         <a href="https://instagram.com/taua.ofc" class="username" target="_blank">@taua.ofc</a>
         
         <p class="bio">
-            19 anos â€¢ Eng. QuÃ­mica (UFAL)<br>
+            19 anos • Eng. Química (UFAL)<br>
             Software Developer & Security Researcher
         </p>
 
-        <!-- BotÃµes de AÃ§Ã£o com DescriÃ§Ã£o -->
+        <!-- Botões de Ação com Descrição -->
         <div class="links-wrapper">
             <a href="https://instagram.com/arvexa" class="action-btn reveal" style="animation-delay: 0.2s;" target="_blank">
                 <span class="btn-title">ARVEXA Technologies</span>
-                <span class="btn-desc">InovaÃ§Ã£o em automaÃ§Ã£o e seguranÃ§a industrial</span>
+                <span class="btn-desc">Inovação em automação e segurança industrial</span>
             </a>
 
             <a href="#" class="action-btn reveal" style="animation-delay: 0.3s;" target="_blank">
                 <span class="btn-title">Thermo Lab</span>
-                <span class="btn-desc">Mecanismo de processamento termodinÃ¢mico</span>
+                <span class="btn-desc">Mecanismo de processamento termodinâmico</span>
             </a>
 
             <a href="#" class="action-btn reveal" style="animation-delay: 0.4s;" target="_blank">
@@ -234,12 +234,12 @@
             </a>
 
             <a href="mailto:contato@arvexa.tech" class="action-btn reveal" style="animation-delay: 0.5s;">
-                <span class="btn-title">DiagnÃ³stico Gratuito</span>
+                <span class="btn-title">Diagnóstico Gratuito</span>
                 <span class="btn-desc">Consultoria especializada em hardware e software</span>
             </a>
         </div>
 
-        <!-- Footer com Ãcones/Nomes das Redes -->
+        <!-- Footer com Ícones/Nomes das Redes -->
         <div class="social-footer reveal" style="animation-delay: 0.6s;">
             <a href="https://github.com/taua-ofc" class="social-link" target="_blank">GITHUB</a>
             <a href="https://instagram.com/taua.ofc" class="social-link" target="_blank">INSTAGRAM</a>
@@ -247,12 +247,12 @@
         </div>
 
         <div class="legal-footer reveal" style="animation-delay: 0.7s;">
-            AEGIS Dynamics â€¢ Arvexa Tech
+            AEGIS Dynamics • Arvexa Tech
         </div>
     </div>
 
     <script>
-        // LÃ³gica de Troca de Tema
+        // Lógica de Troca de Tema
         function toggleTheme() {
             const body = document.body;
             const btn = document.getElementById('themeBtn');
@@ -260,10 +260,10 @@
             
             if (currentTheme === 'dark') {
                 body.setAttribute('data-theme', 'light');
-                btn.innerHTML = 'â˜€ï¸';
+                btn.innerHTML = '☀️';
             } else {
                 body.setAttribute('data-theme', 'dark');
-                btn.innerHTML = 'ðŸŒ™';
+                btn.innerHTML = '🌙';
             }
         }
 
