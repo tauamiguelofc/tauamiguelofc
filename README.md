@@ -23,17 +23,7 @@ I build high-performance tools, simulation engines, and automation workflows usi
 
 ---
 
-## 🚀 Key Projects
 
-### 🦀 Financial Ledger Engine (Rust)
-- Immutable financial transaction engine designed with Rust.
-- Implements strict data validation, concurrency safety, and audit logging.
-
-### 📊 Telemetry Processing Engine (Rust + Python)
-- High-throughput sensor data processing module written in Rust and exposed to Python via PyO3.
-- Focuses on real-time filtering, mathematical calculations, and analytics integration.
-
----
 
 ## 📬 Connect
 
