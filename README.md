@@ -1,45 +1,57 @@
-# Tauã Miguel
+# Hello, I am Tauã!
 
-**Chemical Engineering Student @ UFAL · Systems & Automation Developer**
+* Chemical Engineering student at UFAL
+* Systems & Automation Developer
+* Based in Maceió, Brazil
 
-Maceió, Brazil
+### Currently working with
 
-I build software at the intersection of **engineering, scientific computing, automation, and systems development**.
+* Rust
+* Python
+* HTML
+* CSS
+* Git
+* Linux
 
-Currently focused on building practical tools, engineering software, and experimental systems.
+### Already used technologies
 
----
+* JavaScript
+* FastAPI
+* Next.js
+* SQLite
+* Arduino
+* KiCad
 
-### Focus
+### Cool things I've been building so far
 
-```text
-Engineering        Chemical Engineering · Process Simulation
-Computing          Scientific Computing · Numerical Methods
-Systems            Automation · Embedded Systems · Developer Tools
-Software           Backend · APIs · Data · Systems Programming
-```
+**Projects**
 
-### Stack
+#### **Aerospace Engineering & Simulation Platform**
 
-**Rust · Python · JavaScript · HTML · CSS**
+**-> An experimental engineering platform focused on DIY rockets and aircraft, combining scientific calculations, testing modules, simulations and data processing.**
 
-**FastAPI · Next.js · SQLite · Git · Linux**
+**-> The project brings together the concepts behind ThermoLab and Nélion Engine into a single environment, designed to support engineering experiments from calculations and analysis to simulation and export.**
 
----
+**-> Built around Rust and Python, with a focus on practical engineering tools and accessible experimentation.**
 
-### Selected Projects
+#### **Headlight**
 
-**[Headlight]()**
-HTTP security analysis and diagnostics platform.
+**-> A security-oriented web platform focused on HTTP analysis, automated diagnostics and security operations.**
 
----
+**-> Built with Python and FastAPI on the backend, with a web interface for interacting with the system.**
 
-### Interests
+#### **Financial Engine**
 
-`Scientific Computing` · `Automation` · `Simulation` · `Systems Programming` · `Engineering Software`
+**-> A financial analysis project focused on portfolios, assets, market data and financial calculations.**
 
----
+**-> Developed as an experimental platform for exploring financial data and quantitative analysis.**
 
-### Connect
+### Areas I'm interested in
 
-[GitHub](https://github.com/tauamiguelofc) · [LinkedIn](https://linkedin.com/in/taua-miguel-845676255) · [Email](mailto:tauamiguel77@gmail.com)
+* Chemical Engineering
+* Scientific Computing
+* Automation
+* Simulation
+* Aerospace Engineering
+* Systems Development
+* Engineering Software
