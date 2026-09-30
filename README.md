@@ -1,7 +1,7 @@
 <h1>Hello, I am Tauã!</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/dsO0qJICJC0AAAAC/kjgc.gif" width="800">
+  <img src="https://media1.tenor.com/m/oA3WHpxiZlQAAAAC/akatsuki.gif" width="600">
 </p>
 
 
