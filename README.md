@@ -1,4 +1,9 @@
-# Hello, I am Tauã!
+<h1>Hello, I am Tauã!</h1>
+
+<p align="center">
+  <img src="[https://SEU-LINK/arquivo.gif](https://tenor.com/bE2RJ.gif)" width="800">
+</p>
+
 
 * Chemical Engineering student at UFAL
 * Systems & Automation Developer
