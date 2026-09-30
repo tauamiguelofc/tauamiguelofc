@@ -1,31 +1,45 @@
 # Tauã Miguel
 
-**Chemical Engineering Student at UFAL | Systems & Automation Developer**
+**Chemical Engineering Student @ UFAL · Systems & Automation Developer**
 
-Maceió, AL - Brazil  
-[GitHub](https://github.com/tauamiguelofc) • [LinkedIn](https://linkedin.com/in/taua-miguel-845676255)
+Maceió, Brazil
 
----
+I build software at the intersection of **engineering, scientific computing, automation, and systems development**.
 
-## 🧪 About Me
-
-I am a Chemical Engineering student at the Federal University of Alagoas (UFAL), focusing on the intersection of scientific computing, automation, and systems development. 
-
-I build high-performance tools, simulation engines, and automation workflows using **Rust** and **Python**, with web-facing interfaces built using **HTML** and **CSS**.
+Currently focused on building practical tools, engineering software, and experimental systems.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### Focus
 
-- **Core Languages:** Rust, Python
-- **Web Fundamentals:** HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub, Linux, KiCad
+```text
+Engineering        Chemical Engineering · Process Simulation
+Computing          Scientific Computing · Numerical Methods
+Systems            Automation · Embedded Systems · Developer Tools
+Software           Backend · APIs · Data · Systems Programming
+```
+
+### Stack
+
+**Rust · Python · JavaScript · HTML · CSS**
+
+**FastAPI · Next.js · SQLite · Git · Linux**
 
 ---
 
+### Selected Projects
 
+**[Headlight]()**
+HTTP security analysis and diagnostics platform.
 
-## 📬 Connect
+---
 
-- **Email:** tauamiguel77@gmail.com
-- **Location:** Maceió, AL - Brazil
+### Interests
+
+`Scientific Computing` · `Automation` · `Simulation` · `Systems Programming` · `Engineering Software`
+
+---
+
+### Connect
+
+[GitHub](https://github.com/tauamiguelofc) · [LinkedIn](https://linkedin.com/in/taua-miguel-845676255) · [Email](mailto:tauamiguel77@gmail.com)
