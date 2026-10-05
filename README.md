@@ -45,11 +45,6 @@
 
 **-> Built with Python and FastAPI on the backend, with a web interface for interacting with the system.**
 
-#### **Financial Engine**
-
-**-> A financial analysis project focused on portfolios, assets, market data and financial calculations.**
-
-**-> Developed as an experimental platform for exploring financial data and quantitative analysis.**
 
 ### Areas I'm interested in
 
