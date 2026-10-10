@@ -1,6 +1,6 @@
 <h1>Hello, I am Tauã!</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUNCbgR85cKGpI4w8Kfb27WcnJ9_RsmGp5tugUWWjmP3vVODgO7k6gIO0ynkcERP2Nw" width="400">
 </p>
 
