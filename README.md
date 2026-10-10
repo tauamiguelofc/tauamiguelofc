@@ -1,7 +1,7 @@
 <h1>Hello, I am Tauã!</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/DPL9Rnnktm0AAAAM/g-dfa.gif" width="400">
+  <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUNCbgR85cKGpI4w8Kfb27WcnJ9_RsmGp5tugUWWjmP3vVODgO7k6gIO0ynkcERP2Nw" width="400">
 </p>
 
 
