@@ -31,7 +31,11 @@
 
 **Projects**
 
-
+*   **[N2 Bank (Desktop)](https://github.com/tauamiguelofc/n2-bank)** 🏦💻
+    *   *White-label desktop fintech MVP inspired by MetaMask's UX. A secure application that connects to Banking as a Service (BaaS) APIs to handle Pix and P2P transfers.*
+    *   **Stack:** `Rust` `Tauri` `React` `TypeScript` `SQLite` `Tailwind CSS`
+    *   **Key features:** Encrypted local ledger, native-like performance (low RAM footprint), and secure IPC communication.
+    *   *Status:* 🚧 In Development (Learning by building).
 
 ### Areas I'm interested in
 
