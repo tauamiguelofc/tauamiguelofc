@@ -33,7 +33,7 @@
 
 ### Projects
 
-#### 🏦 N2 Bank
+### **[N2 Bank](https://github.com/tauamiguelofc/n2-bank)**
 > *A secure, lightweight desktop payment platform (White Label MVP) built with Rust and Tauri.*
 > *Connects to a Banking as a Service (BaaS) API to handle Pix and P2P transactions, featuring a local encrypted ledger and a MetaMask-inspired UI.*
 
