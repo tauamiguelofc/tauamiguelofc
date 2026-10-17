@@ -31,11 +31,22 @@
 
 **Projects**
 
-*   **[N2 Bank (Desktop)](https://github.com/tauamiguelofc/n2-bank)** 🏦💻
-    *   *White-label desktop fintech MVP inspired by MetaMask's UX. A secure application that connects to Banking as a Service (BaaS) APIs to handle Pix and P2P transfers.*
-    *   **Stack:** `Rust` `Tauri` `React` `TypeScript` `SQLite` `Tailwind CSS`
-    *   **Key features:** Encrypted local ledger, native-like performance (low RAM footprint), and secure IPC communication.
-    *   *Status:* 🚧 In Development (Learning by building).
+### Projects
+
+#### 🏦 N2 Bank
+> *A secure, lightweight desktop payment platform (White Label MVP) built with Rust and Tauri.*
+> *Connects to a Banking as a Service (BaaS) API to handle Pix and P2P transactions, featuring a local encrypted ledger and a MetaMask-inspired UI.*
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+**Features:**
+- 🔒 **Security:** Local SQLite ledger encrypted via OS Keychain.
+- ⚡ **Performance:** Native-like desktop experience with Tauri.
+- 🔗 **Integrations:** Sandbox API integration for Pix.
 
 ### Areas I'm interested in
 
