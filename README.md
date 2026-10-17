@@ -31,19 +31,6 @@
 
 **Projects**
 
-#### **Aerospace Engineering & Simulation Platform**
-
-**-> An experimental engineering platform focused on DIY rockets and aircraft, combining scientific calculations, testing modules, simulations and data processing.**
-
-**-> The project brings together the concepts behind ThermoLab and Nélion Engine into a single environment, designed to support engineering experiments from calculations and analysis to simulation and export.**
-
-**-> Built around Rust and Python, with a focus on practical engineering tools and accessible experimentation.**
-
-#### **Headlight**
-
-**-> A security-oriented web platform focused on HTTP analysis, automated diagnostics and security operations.**
-
-**-> Built with Python and FastAPI on the backend, with a web interface for interacting with the system.**
 
 
 ### Areas I'm interested in
